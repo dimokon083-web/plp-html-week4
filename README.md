@@ -68,7 +68,7 @@ Through this project, I practiced using CSS to create a consistent visual design
 
 
 
-## Week: SpendWise Dashboard Shell
+## Week 4: SpendWise Dashboard Shell
 
 This week I transformed my Personal Budget & Expense Tracker into a modern SpendWise dashboard interface.
 
